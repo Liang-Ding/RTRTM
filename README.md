@@ -11,5 +11,7 @@ analysis, or reporting of research, please cite our paper in your pubilication.
 
 ****************************************************************************
 If you have any question about the code, please contact me.
-Author: Liang Ding,	
+<br>
+Author: Liang Ding,
+<br>
 Email: liangding86@gmail.com
