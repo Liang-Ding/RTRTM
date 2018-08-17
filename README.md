@@ -1,4 +1,4 @@
-# RTRTM
+# RTRTM(alpha)
 Reverse-time ray-tracing method for microseismic source localization
 
 If you have used any part of this code in the planning, design, execution,
